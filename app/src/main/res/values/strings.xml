@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="hint_weight">Ingrese su peso en Libras</string>
+    <string name="hint_height">Ingrese su estatura en Centimetros</string>
+    <string name="process_button">Procesar</string>
+    <string name="results_activity_name">Resultados</string>
+</resources>
